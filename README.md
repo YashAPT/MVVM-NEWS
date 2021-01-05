@@ -19,6 +19,4 @@
   
   # SCREENSHOTS
   
-  ![](Images/img1.jpg)
-
-  ![](Images/img2.jpg)
+  
