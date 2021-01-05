@@ -1,8 +1,8 @@
 # DESCRIPTION
 
- App Name - MVVM-NEWS
- Language Used - JAVA
- Architecture - MVVM
+ #### App Name - MVVM-NEWS
+ #### Language Used - JAVA
+ #### Architecture - MVVM
  
  # COMPONENTS
  
