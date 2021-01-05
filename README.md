@@ -15,7 +15,7 @@
  # NOTE - 
  
   This Application is in progress.......
-  As of now only only UI is implemented, Dummy Data is populated as of now.
+  Only UI is implemented, Dummy Data is populated as of now.
   
   # SCREENSHOTS
   
